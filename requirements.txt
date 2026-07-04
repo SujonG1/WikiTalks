@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+Wikipedia-API
+semchunk
+chromadb
+sentence-transformers
+transformers
+langchain_cerebras
+streamlit
