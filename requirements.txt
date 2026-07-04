@@ -6,4 +6,3 @@ chromadb
 sentence-transformers
 transformers
 langchain_cerebras
-streamlit
